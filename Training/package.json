@@ -10,7 +10,7 @@
     "botkit",
     "devnet"
   ],
-  "author": "Stève Sfartz (Cisco DevNet) <stsfartz@cisco.com>",
+  "author": "Enrique Relucio  <enrique.relucio@fibratel.com>",
   "license": "MIT",
   "dependencies": {
     "botkit": "^0.5.7",
