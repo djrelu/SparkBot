@@ -4,7 +4,7 @@
   "description": "Cisco Spark Bots built with the Botkit framework",
   "main": "helloworld.js",
   "scripts": {
-    "start": "cross-env SPARK_TOKEN=NzcwMDAxZGYtOTY3OS00NTcyLWE3YjctNWQ2YjFhZDZiMzZkYjU0ZDFjYjUtNTg3 PUBLIC_URL=https://enriquesparkbot.herokuapp.com/ SECRET=empty node bot.js",
+    "start": "cross-env SPARK_TOKEN=NDUwZDQ4NmItMTc1Mi00NmEzLTgxY2EtNTY1ZjBiY2Y0ZTU2Nzg3NTc2MjItNGEw PUBLIC_URL=https://enriquesparkbot.herokuapp.com/ SECRET=empty node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
